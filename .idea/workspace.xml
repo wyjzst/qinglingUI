@@ -5,27 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da48f57a-e7c4-4f88-b287-9c734bd75793" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iYuGLe7Pm6Z9YiigM06KAUo6VB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wyjzst\Desktop\jay\qinglingUI" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,8 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602096749977</updated>
       <workItem from="1602096751128" duration="610000" />
-      <workItem from="1602152105114" duration="302000" />
+      <workItem from="1602152105114" duration="2715000" />
     </task>
+    <task id="LOCAL-00001" summary="npm install vue">
+      <created>1602152514266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602152514266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -46,14 +72,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="npm install vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm install vue" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2171" y="126" key="CommitChangelistDialog2" timestamp="1602152341407">
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2" timestamp="1602152513341">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2171" y="126" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602152341407" />
-    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602152315276">
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602152513341" />
+    <state x="1949" y="261" key="SettingsEditor" timestamp="1602153055819">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1602152315276" />
+    <state x="1949" y="261" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1602153055819" />
+    <state x="2072" y="370" key="Vcs.Push.Dialog.v2" timestamp="1602152545086">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2072" y="370" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1602152545086" />
+    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602152534264">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1602152534264" />
   </component>
 </project>
