@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da48f57a-e7c4-4f88-b287-9c734bd75793" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <workItem from="1602370709823" duration="3396000" />
       <workItem from="1602489739331" duration="11198000" />
       <workItem from="1602635994769" duration="4468000" />
-      <workItem from="1602738431768" duration="4638000" />
+      <workItem from="1602738431768" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1602152514266</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602748728329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="加入 parcel,将 button 组件改为单文件组件">
+      <created>1602750871082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602750871082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -131,17 +137,18 @@
     <MESSAGE value="npm install vue" />
     <MESSAGE value="完成按钮基本样式" />
     <MESSAGE value="安装 parcel" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装 parcel" />
+    <MESSAGE value="加入 parcel,将 button 组件改为单文件组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入 parcel,将 button 组件改为单文件组件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2384" y="481" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602739222622">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2384" y="481" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1602739222622" />
-    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2" timestamp="1602748727326">
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2" timestamp="1602750870165">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602748727326" />
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602750870165" />
     <state x="672" y="126" width="2768" height="1152" key="DiffContextDialog" timestamp="1602739121271">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -166,9 +173,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2381" y="568" key="git4idea.rebase.GitUnstructuredEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1602748791763" />
-    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602152534264">
+    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602750962162">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1602152534264" />
+    <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1602750962162" />
   </component>
 </project>
