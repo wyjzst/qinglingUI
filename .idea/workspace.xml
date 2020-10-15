@@ -3,13 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="da48f57a-e7c4-4f88-b287-9c734bd75793" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/button.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +77,7 @@
       <workItem from="1602370709823" duration="3396000" />
       <workItem from="1602489739331" duration="11198000" />
       <workItem from="1602635994769" duration="4468000" />
-      <workItem from="1602738431768" duration="3350000" />
+      <workItem from="1602738431768" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="npm install vue">
       <created>1602152514266</created>
@@ -85,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602739207309</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="安装 parcel">
+      <created>1602748728329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602748728329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -93,6 +115,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="npm install vue" />
@@ -105,10 +138,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2384" y="481" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1602739222622" />
-    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2" timestamp="1602739206365">
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2" timestamp="1602748727326">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602739206365" />
+    <state x="1861" y="126" width="1491" height="1148" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1602748727326" />
     <state x="672" y="126" width="2768" height="1152" key="DiffContextDialog" timestamp="1602739121271">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -117,6 +150,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1655" y="373" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1602748554137" />
+    <state x="2117" y="402" key="MultipleFileMergeDialog" timestamp="1602748788585">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2117" y="402" key="MultipleFileMergeDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1602748788585" />
     <state x="1230" y="219" key="SettingsEditor" timestamp="1602748556009">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -125,6 +162,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2072" y="370" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1602152545086" />
+    <state x="2381" y="568" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1602748791763">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2381" y="568" key="git4idea.rebase.GitUnstructuredEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1602748791763" />
     <state x="2159" y="312" width="840" height="1034" key="search.everywhere.popup" timestamp="1602152534264">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
